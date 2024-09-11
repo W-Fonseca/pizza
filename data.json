@@ -7,11 +7,11 @@
             "img": "https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/margherita-7d163fb8-1920w.jpg"
         },
         "Pizza Pepperoni": {
-      "nome": "Pizza Pepperoni",
-      "conteudo": "Queijo, pepperoni.",
-      "valor": "R$ 40,00",
-      "img": "https://example.com/pizza-pepperoni.jpg"
-    }
+            "nome": "Pizza Pepperoni",
+            "conteudo": "Queijo, pepperoni.",
+            "valor": "R$ 40,00",
+            "img": "https://example.com/pizza-pepperoni.jpg"
+        }
     },
     "bebidas": {
         "coca-cola": {
@@ -25,6 +25,24 @@
             "conteudo": "2L",
             "valor": "R$ 10,00",
             "img": "https://eldoradomalaga.com/wp-content/uploads/2021/02/coca_cola_zero_2litros.jpg"
+        },
+        "guarana-antarctica": {
+            "nome": "Guaraná Antarctica",
+            "conteudo": "2L",
+            "valor": "R$ 8,00",
+            "img": "https://www.cocacolabrasil.com.br/content/dam/journey/br/pt/private/brands/guarana-antarctica/guarana-antarctica-2l.png"
+        },
+        "agua-de-coco": {
+            "nome": "Água de Coco",
+            "conteudo": "1L",
+            "valor": "R$ 6,00",
+            "img": "https://www.naturam.com.br/wp-content/uploads/2020/11/agua-de-coco.jpg"
+        },
+        "caipirinha": {
+            "nome": "Caipirinha",
+            "conteudo": "350ml",
+            "valor": "R$ 15,00",
+            "img": "https://www.receiteria.com.br/wp-content/uploads/caipirinha-tradicional-1.jpg"
         }
     },
     "promocao": {
@@ -35,14 +53,14 @@
             "valorAntigo": "R$ 40,00",
             "img": "https://img.cybercook.com.br/receitas/283/pizza-de-calabresa-2.jpeg"
         },
-         "pizza Pepperoni Catupiry": {
+        "pizza Pepperoni Catupiry": {
             "nome": "pizza Pepperoni Catupiry",
             "conteudo": "Molho da casa, Peperone, Queijo, Catupiry.",
             "valor": "R$ 34,90",
             "valorAntigo": "R$ 60,00",
             "img": "https://www.cantinacheirodepizza.com.br/content/images/thumbs/0000028_calabresa-com-catupiry_383.png"
-             },
-         "pizza Frango Catupiry": {
+        },
+        "pizza Frango Catupiry": {
             "nome": "pizza Frango Catupiry",
             "conteudo": "Molho da casa, Queijo, Frango, Catupiry e Oregano.",
             "valor": "R$ 24,90",
