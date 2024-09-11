@@ -5,7 +5,13 @@
             "conteudo": "Pizza Margherita",
             "valor": "R$ 35,00",
             "img": "https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/margherita-7d163fb8-1920w.jpg"
-        }
+        },
+        "Pizza Pepperoni": {
+      "nome": "Pizza Pepperoni",
+      "conteudo": "Queijo, pepperoni.",
+      "valor": "R$ 40,00",
+      "img": "https://example.com/pizza-pepperoni.jpg"
+    }
     },
     "bebidas": {
         "coca-cola": {
@@ -29,8 +35,8 @@
             "valorAntigo": "R$ 40,00",
             "img": "https://img.cybercook.com.br/receitas/283/pizza-de-calabresa-2.jpeg"
         },
-         "pizza Peperone": {
-            "nome": "pizza Peperone",
+         "pizza Pepperoni Catupiry": {
+            "nome": "pizza Pepperoni Catupiry",
             "conteudo": "Molho da casa, Peperone, Queijo, Catupiry.",
             "valor": "R$ 34,90",
             "valorAntigo": "R$ 60,00",
