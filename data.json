@@ -41,6 +41,13 @@
             "valor": "R$ 34,90",
             "valorAntigo": "R$ 60,00",
             "img": "https://www.cantinacheirodepizza.com.br/content/images/thumbs/0000028_calabresa-com-catupiry_383.png"
+             },
+         "pizza Frango Catupiry": {
+            "nome": "pizza Frango Catupiry",
+            "conteudo": "Molho da casa, Queijo, Frango, Catupiry e Oregano.",
+            "valor": "R$ 24,90",
+            "valorAntigo": "R$ 35,00",
+            "img": "https://www.cantinacheirodepizza.com.br/content/images/thumbs/0000028_calabresa-com-catupiry_383.png"
         }
     }
 }
