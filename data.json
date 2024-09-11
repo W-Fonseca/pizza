@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "Pizza Margherita": {
+            "nome": "Pizza Margherita",
+            "conteudo": "Pizza Margherita",
+            "valor": "R$ 35,00",
+            "img": "https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/margherita-7d163fb8-1920w.jpg"
+        }
+    },
+    "bebidas": {
+        "coca-cola": {
+            "nome": "Coca-cola",
+            "conteudo": "2L",
+            "valor": "R$ 10,00",
+            "img": "https://emporiopires.com.br/wp-content/uploads/2022/06/0b764df9d98e8aa42991f1e5ea29945f.jpg"
+        },
+        "coca-cola-zero": {
+            "nome": "Coca-cola Zero",
+            "conteudo": "2L",
+            "valor": "R$ 10,00",
+            "img": "https://eldoradomalaga.com/wp-content/uploads/2021/02/coca_cola_zero_2litros.jpg"
+        }
+    },
+    "promocao": {
+        "Pizza Calabresa": {
+            "nome": "Pizza Calabresa",
+            "conteudo": "Queijo, calabresa, cebola.",
+            "valor": "R$ 25,00",
+            "valorAntigo": "R$ 40,00",
+            "img": "https://img.cybercook.com.br/receitas/283/pizza-de-calabresa-2.jpeg"
+        }
+    }
+}
