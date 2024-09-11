@@ -29,13 +29,12 @@
             "valorAntigo": "R$ 40,00",
             "img": "https://img.cybercook.com.br/receitas/283/pizza-de-calabresa-2.jpeg"
         },
-         "Pizza Peperone": {
+         "pizza Peperone": {
             "nome": "pizza Peperone",
             "conteudo": "Molho da casa, Peperone, Queijo, Catupiry.",
             "valor": "R$ 34,90",
             "valorAntigo": "R$ 60,00",
             "img": "https://www.cantinacheirodepizza.com.br/content/images/thumbs/0000028_calabresa-com-catupiry_383.png"
-             }
         }
     }
 }
