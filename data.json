@@ -11,6 +11,24 @@
             "conteudo": "Queijo, pepperoni.",
             "valor": "R$ 40,00",
             "img": "https://example.com/pizza-pepperoni.jpg"
+        },
+        "Pizza Calabresa": {
+            "nome": "Pizza Calabresa",
+            "conteudo": "Queijo, calabresa, cebola.",
+            "valor": "R$ 38,00",
+            "img": "https://img.cybercook.com.br/receitas/283/pizza-de-calabresa-2.jpeg"
+        },
+        "Pizza Portuguesa": {
+            "nome": "Pizza Portuguesa",
+            "conteudo": "Queijo, presunto, ovo, cebola, azeitona, ervilha.",
+            "valor": "R$ 42,00",
+            "img": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-portuguesa.jpg"
+        },
+        "Pizza Quatro Queijos": {
+            "nome": "Pizza Quatro Queijos",
+            "conteudo": "Muçarela, gorgonzola, provolone, parmesão.",
+            "valor": "R$ 45,00",
+            "img": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-quatro-queijos.jpg"
         }
     },
     "bebidas": {
