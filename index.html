@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzaria App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Popup de notificação -->
+    <div id="notification-popup" class="hidden">Item adicionado ao carrinho</div>
+
+
+    <!-- Cabeçalho fixo -->
+    <header>
+        <h1>Pizzaria Bella</h1>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main>
+        <!-- Seção de Menu de Pizzas -->
+        <section id="menu">
+            <h2>Nosso Menu</h2>
+            <h3>Pizzas</h3>
+            <div id="pizza-container" class="pizza-container">
+                <!-- Itens de pizza serão carregados aqui pelo JavaScript -->
+            </div>
+        </section>
+
+        <!-- Seção de Bebidas -->
+        <section id="bebidas" class="hidden">
+            <h2>Bebidas</h2>
+            <div id="drink-container" class="drink-container">
+                <!-- Itens de bebidas serão carregados aqui pelo JavaScript -->
+            </div>
+        </section>
+
+        <!-- Seção de Promoções -->
+        <section id="promocoes" class="hidden">
+            <h2>Promoções Especiais</h2>
+            <div id="promotion-container" class="promotion-container">
+                <!-- Itens de promoções serão carregados aqui pelo JavaScript -->
+            </div>
+        </section>
+
+        <!-- Seção do Carrinho -->
+        <section id="carrinho" class="hidden">
+            <h2>Seu Carrinho</h2>
+            <div id="cart-items">
+                <p>Carrinho vazio</p>
+            </div>
+            <div id="cart-summary" class="hidden">
+                <p><strong>Total: R$ <span id="total-price">0.00</span></strong></p>
+                <button id="finalizar-compra">Finalizar Pedido</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Navegação inferior fixa -->
+    <nav class="bottom-nav">
+        <ul>
+            <li><a href="#menu" class="active">Menu</a></li>
+            <li><a href="#bebidas">Bebidas</a></li>
+            <li><a href="#promocoes">Promoções</a></li>
+            <li><a href="#carrinho">Carrinho</a></li>
+            <li><a href="#conta">Conta</a></li>
+        </ul>
+    </nav>
+
+    <!-- Script -->
+    <script src="script.js"></script>
+</body>
+</html>
