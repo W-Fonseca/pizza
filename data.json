@@ -10,7 +10,7 @@
             "nome": "Pizza Pepperoni",
             "conteudo": "Queijo, pepperoni.",
             "valor": "R$ 40,00",
-            "img": "https://example.com/pizza-pepperoni.jpg"
+            "img": "https://www.pngall.com/wp-content/uploads/4/Pepperoni-Dominos-Pizza-PNG.png"
         },
         "Pizza Calabresa": {
             "nome": "Pizza Calabresa",
@@ -28,7 +28,7 @@
             "nome": "Pizza Quatro Queijos",
             "conteudo": "Muçarela, gorgonzola, provolone, parmesão.",
             "valor": "R$ 45,00",
-            "img": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-pizza-quatro-queijos.jpg"
+            "img": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d036cd01122da62bf581784f52d99b3a.jpg"
         }
     },
     "bebidas": {
@@ -48,19 +48,19 @@
             "nome": "Guaraná Antarctica",
             "conteudo": "2L",
             "valor": "R$ 8,00",
-            "img": "https://www.cocacolabrasil.com.br/content/dam/journey/br/pt/private/brands/guarana-antarctica/guarana-antarctica-2l.png"
+            "img": "https://choppbrahmaexpress.vtexassets.com/arquivos/ids/155720/guaran_2.png"
         },
         "agua-de-coco": {
             "nome": "Água de Coco",
             "conteudo": "1L",
             "valor": "R$ 6,00",
-            "img": "https://www.naturam.com.br/wp-content/uploads/2020/11/agua-de-coco.jpg"
+            "img": "https://loja.sococo.com.br/wp-content/uploads/2019/06/330red.jpg"
         },
         "caipirinha": {
             "nome": "Caipirinha",
             "conteudo": "350ml",
             "valor": "R$ 15,00",
-            "img": "https://www.receiteria.com.br/wp-content/uploads/caipirinha-tradicional-1.jpg"
+            "img": "https://png.pngtree.com/png-vector/20240611/ourmid/pngtree-caipirinha-brazilian-juice-drink-style-raw-png-image_12708666.png"
         }
     },
     "promocao": {
